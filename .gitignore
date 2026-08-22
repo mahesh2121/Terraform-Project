@@ -1,0 +1,5 @@
+
+# Terraform state lab scratch
+*.tfstate
+*.tfstate.*
+.history/
